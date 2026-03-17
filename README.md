@@ -66,6 +66,9 @@ Fiber optic links can transmit both digital and analog signals. A fiber optic li
 |----------------|-----------------------|------------------------|--------------|-----------|
 |                |                       |                        |              |           |
 
+
+![WhatsApp Image 2026-03-17 at 8 44 34 PM](https://github.com/user-attachments/assets/9b1fc3f0-4251-4afe-beb5-9c6b54876164)
+
 --
 
 ## Model Graph
